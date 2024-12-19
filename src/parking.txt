@@ -1,0 +1,1 @@
+4,parkingC,rueC,4523,789,villeC,Commercial,1,1,1,mot de passe,Caméras ,01:00,01:00,ouvert,agent
